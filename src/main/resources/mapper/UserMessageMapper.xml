@@ -26,4 +26,6 @@
         FROM user_message WHERE openid = #{openid,jdbcType=VARCHAR}
     </select>
 
+
+
 </mapper>
