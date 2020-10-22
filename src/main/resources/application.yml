@@ -11,7 +11,7 @@ wx:
 spring:
   datasource:
     username: root
-    password: shumaosha2
-    url: jdbc:mysql://127.0.0.1:3306/course_test?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai
+    password: Gzsnb@666
+    url: jdbc:mysql://39.96.114.221:3306/course?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai
     driver-class-name: com.mysql.cj.jdbc.Driver
 
